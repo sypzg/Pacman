@@ -1,2 +1,2 @@
 # Pacman
-Start mu c++ practice with a little game
+Start c++ practice with a little game
